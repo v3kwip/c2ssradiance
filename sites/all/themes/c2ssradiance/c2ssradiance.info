@@ -1,0 +1,13 @@
+name = jream
+description = jream theme
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = reset.css
+stylesheets[all][] = layout.css
+
+; Information added by khuongkd  on 2012-02-13
+version = "7.12"
+project = "drupal"
+datestamp = "1328134560"
+
